@@ -66,4 +66,4 @@ See the full made-up example: [`examples/EVT-014_DEBRIEF_CFORoundtable.md`](exam
 
 ---
 
-*Part of my [event ops toolkit](https://github.com/parker-lauren): [vet the event](https://github.com/parker-lauren/event-vetting) → [clean the leads](https://github.com/parker-lauren/event-contact-list) → debrief honestly. All events, people and numbers here are made up.*
+*Part of my [event ops toolkit](https://github.com/parker-lauren): [run the program](https://github.com/parker-lauren/event-program-os) → [vet the event](https://github.com/parker-lauren/event-vetting) → [enrich the leads](https://github.com/parker-lauren/webinar-lead-enrichment) → [clean the list](https://github.com/parker-lauren/event-contact-list) → **debrief honestly**. All events, people and numbers here are made up.*
